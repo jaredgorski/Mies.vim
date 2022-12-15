@@ -1,5 +1,3 @@
-color scheme for vim
-
 ![Mies, Crown Hall](https://raw.githubusercontent.com/jaredgorski/Mies.vim/main/.media/crown-hall.jpg)
 
 ![Mies.vim screenshots](https://raw.githubusercontent.com/jaredgorski/Mies.vim/main/.media/full-screenshot_mies.png)
